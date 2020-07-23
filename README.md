@@ -17,7 +17,7 @@ Known Issues :
 1. Giving input to the entered program is not available.
 
 Todo List:
-1. Option to save scripts/programs.
+1. Option to save scripts/programs. (by default-> script is saved as temp.py but need a more interactive way)
 2. Option to load/select saved script.
 3. Option to log the output into a log file.
 4. Option to get input from user using a prompt box
